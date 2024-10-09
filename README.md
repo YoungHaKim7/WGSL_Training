@@ -4,6 +4,9 @@
 - 공식 eBook인듯
   - https://www.w3.org/TR/WGSL/
 
+- Rust로 만든 WGSL-playground
+  - https://lib.rs/crates/wgsl-playground
+
 # Generate typesafe Rust bindings from WGSL shaders to wgpu 
 - https://github.com/ScanMountGoat/wgsl_to_wgpu
 
