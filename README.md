@@ -4,7 +4,8 @@
 - 공식 eBook인듯
   - https://www.w3.org/TR/WGSL/
 
-- Rust로 만든 WGSL-playground
+- Rust로 만든 WGSL-playground(cargo run 하고 뒤에 "파일명.wgsl"하면 화면으로 나옴 굿)
+  - https://github.com/paulgb/wgsl-playground 
   - https://lib.rs/crates/wgsl-playground
 
 # Generate typesafe Rust bindings from WGSL shaders to wgpu 
