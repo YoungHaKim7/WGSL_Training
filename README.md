@@ -13,6 +13,9 @@
 
 <hr />
 
+# webgpu-samples
+- https://webgpu.github.io/webgpu-samples/
+
 # cargo wgsl(wgsl문법확인 빠르게 하기)
 - Validate wgsl in rust projects
   - https://crates.io/crates/cargo-wgsl
